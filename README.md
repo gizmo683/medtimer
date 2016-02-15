@@ -1,2 +1,2 @@
 # medtimer
-Meditation timer wesbite
+Meditation timer website
