@@ -1,2 +1,0 @@
-# medtimer
-Meditation timer website
