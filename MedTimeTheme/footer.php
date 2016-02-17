@@ -1,8 +1,9 @@
-/body>
- 
-<footer>
-<p>This is my Footer</p>
-</footer>
 
+  <footer>
+    <p>This is my Footer</p>
+  </footer>
 
+  <?php wp_footer(); ?>
+
+ </body>
 </html>
