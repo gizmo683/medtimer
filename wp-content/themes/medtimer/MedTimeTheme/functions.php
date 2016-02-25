@@ -8,3 +8,9 @@ function medtimer_script_enqueue() {
 }
 
 add_action( 'wp_enqueue_scripts', 'medtimer_script_enqueue');
+
+function medtimer_theme_setup() {
+    add_theme_support('menus');
+}
+
+add_action('init', 'medtimer_theme_setup');
